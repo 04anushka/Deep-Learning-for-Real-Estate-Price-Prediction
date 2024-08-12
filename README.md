@@ -49,11 +49,3 @@ This project involves predicting real estate prices using machine learning. The 
 ## Contributing
 
 Feel free to open issues or submit pull requests.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Replace `yourusername` with your actual GitHub username and adjust any other details as needed.
